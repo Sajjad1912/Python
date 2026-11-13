@@ -1,0 +1,12 @@
+name = "  sajjatul alam  "
+print(len(name))
+print(name.endswith("am"))
+print(name.startswith("Sa"))
+print(name.capitalize())
+print(name.lower())
+print(name.upper())
+print(name.rstrip())
+print(name.lstrip())
+print(name.count("a"))
+print(name.replace("j","z"))
+print(name.find("alam"))
